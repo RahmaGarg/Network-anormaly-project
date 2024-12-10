@@ -77,3 +77,11 @@ The **UNSW-NB15** dataset is a comprehensive network traffic dataset specificall
 - **Federated Learning Libraries**: TensorFlow Federated, PySyft
 - **Data Preprocessing Tools**: Pandas, NumPy, Matplotlib, Seaborn
 - **Model Evaluation**: Scikit-learn for performance metrics, Matplotlib for plotting **ROC curves**
+  
+## 📂 Access the Dataset
+
+You can download the **UNSW-NB15 dataset** from the following link:  
+[**UNSW-NB15 Dataset (CSV Files)**](https://unsw-my.sharepoint.com/personal/z5025758_ad_unsw_edu_au/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fz5025758%5Fad%5Funsw%5Fedu%5Fau%2FDocuments%2FUNSW%2DNB15%20dataset%2FCSV%20Files)  
+
+This dataset is essential for training and evaluating the models in this project. Ensure you have the required permissions to access and download the files.
+
